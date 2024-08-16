@@ -1,4 +1,4 @@
-package inheritemce;
+package oops.inheritemce;
  class Animal {
     String name;
 

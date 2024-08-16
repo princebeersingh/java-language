@@ -1,4 +1,4 @@
-package inheritemce;
+package oops.inheritemce;
 /**
  * multi_level_inherit
  */

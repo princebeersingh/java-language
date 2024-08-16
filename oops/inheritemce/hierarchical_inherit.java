@@ -1,4 +1,4 @@
-package inheritemce;
+package oops.inheritemce;
 /**
  * hierarchical_inherit
  */
